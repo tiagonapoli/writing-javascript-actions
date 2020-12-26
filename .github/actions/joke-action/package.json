@@ -1,0 +1,12 @@
+{
+  "name": "joke-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "package.json": "^2.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
